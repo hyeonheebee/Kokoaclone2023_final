@@ -8,7 +8,7 @@ body {
 .background::before {
   z-index: -1;
   /* background-color: var(--light); */
-  background-image: url("../img/cherry.jpg");
+  background-image: url("https://raw.githubusercontent.com/hyeonheebee/Kokoaclone2023_final/main/img/cherry.jpg");
   opacity: 0.4;
   top: 0px;
   left: 0px;
